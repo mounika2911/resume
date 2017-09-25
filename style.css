@@ -191,6 +191,10 @@ h4 {
     padding: 30px;
 }
 
+#music {
+    padding: 10px;
+}
+
 .listen{
      font-family: 'Ruluko', sans-serif;
      color: white; 
@@ -198,6 +202,12 @@ h4 {
      text-align: center;
      background-color: #d26262;
      border-radius: 100%;
+     width: 150px;
+     height: 150px;
+}
+
+#games {
+     padding: 10px
 }
 
 .play{
@@ -207,7 +217,13 @@ h4 {
      text-align: center;
      background-color: #d26262;
      border-radius: 100%;
+     width: 150px;
+     height: 150px;     
 
+}
+
+#movies{
+    padding: 10px;
 }
 
 .cinemas{
@@ -217,7 +233,13 @@ h4 {
      text-align: center;
      background-color: #d26262;
      border-radius: 100%;
+     width: 150px;
+     height: 150px;     
 
+}
+
+#ride {
+    padding: 10px;
 }
 
 .driving{
@@ -227,6 +249,12 @@ h4 {
      text-align: center;
      background-color: #d26262;
      border-radius: 100%;
+     width: 150px;
+     height: 150px;     
+}
+
+#travel {
+    padding: 10px;
 }
 
 .distance{
@@ -236,7 +264,10 @@ h4 {
      text-align: center;
      background-color: #d26262;
      border-radius: 100%;
+     width: 150px;
+     height: 150px;
 }
+
 
 /*end of fifth part*/
 /*sixth part*/
@@ -254,7 +285,7 @@ h4 {
 }
 
 #icons {
-    
+       padding: 10px 0px 0px 50px; 
 }
 
 .fa-facebook:hover {
