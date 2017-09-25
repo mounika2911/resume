@@ -181,11 +181,11 @@ h4 {
 
 .hobbies {
     padding: 0;
-    height: 214px;
 }
 
 .round {
     padding: 30px;
+    margin: 5px;
 }
 
 #music {
@@ -282,7 +282,8 @@ h4 {
 }
 
 #icons {
-       padding: 10px 0px 0px 50px; 
+    padding: 10px 0px 0px 10px;
+    text-align: center; 
 }
 
 .fa-facebook:hover {
