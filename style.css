@@ -1,0 +1,321 @@
+/*first part*/
+.header {   
+    background-image: url("Image.png");
+    background-size: cover;
+    height: 580px;
+ }
+
+#header-text {
+    margin-top: 160px;
+    margin-right: 178px;
+    text-align: right;
+    color: whitesmoke;   
+}
+
+h1 {
+    font-size: 48px;
+    font-family: 'Ruluko', sans-serif;
+    letter-spacing: 0.3rem;
+}
+
+h2 {
+  font-family: 'Ruluko', sans-serif;
+    letter-spacing: 0.7rem;
+    font-size: 24px;
+ }
+/*end of first part*/
+#color {
+     margin-top: -15px;
+     text-align: center;
+   
+}
+#together {
+    font-family: 'Ruluko', sans-serif;
+     font-size: 28px; 
+     text-align: center;  
+     letter-spacing: 0.2rem;
+     background-color: whitesmoke;
+     box-shadow: 2px 2px 2px;     
+}
+/*second part*/
+#secondrow {
+       height:348px;
+       margin-top: 50px;
+       font-family: 'Ruluko', sans-serif;
+     
+}
+
+h3 {
+    font-size: 25px;
+    font-family: 'Ruluko', sans-serif;
+    
+    text-align: right;
+    border-bottom: 1px solid black;
+    font-style: bold;
+    
+}
+
+
+.header-tag-two {    
+    font-family: 'Ruluko', sans-serif;
+    text-align: right;
+    font-size:22px;
+    letter-spacing: 0.1rem;
+    
+}
+
+.intro {
+    
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+
+#picture  {
+    text-align: center;
+}
+
+#picture img {
+    text-align: center;
+    max-width: 100%;
+}
+/*end of second part*/
+/*fourth part*/
+#employement {
+ 
+    
+}
+
+
+#tech {
+    color: black;
+    font-family: 'Ruluko', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0.1rem;
+    padding: 10px;
+   
+}
+
+.border{
+    border-bottom: 1px solid black;
+}
+#content{
+    color: black;
+    font-family: 'Ruluko', sans-serif;
+    font-size: 25px;   
+    text-align: center; 
+    letter-spacing: 0.1rem; 
+    padding: 12px;
+}
+/*end of fourth part*/
+/*third part*/
+.skills {
+    box-shadow: 0 0 10px black;    
+    background-image: url(two.png);
+    background-repeat: no-repeat;  
+}
+
+.simple {
+    padding: 40px;
+}
+
+h4 {
+    font-size: 42px;
+    font-family: 'Ruluko', sans-serif;
+    color: white;
+}
+
+#line {
+    padding: 50px;
+}
+
+#desktop {
+    font-family: 'Ruluko', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin: 20px;
+    color: white;
+}
+.teach {
+    padding: 30px;
+}
+
+#hyper {
+    box-shadow:  0 0 5px white;
+    background-color: rgba(35, 195, 195, 0.62);
+       
+}
+
+.course {
+    font-family: 'Ruluko', sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+#develop {
+    color: #ffd800;
+
+}
+
+#width {
+    margin: 25px;
+}
+/*end of third part*/
+/*fifth part*/
+.wall {
+    background-image: url(wall.PNG);
+      box-shadow: 0 0 10px black;
+}
+
+.interests {
+    font-family: 'Ruluko', sans-serif;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    padding: 10px;
+}
+
+.hobbies {
+    padding: 14px;
+    height: 214px;
+}
+
+.round {
+    padding: 30px;
+}
+
+.listen{
+     font-family: 'Ruluko', sans-serif;
+     color: white; 
+     font-size: 30px;
+     text-align: center;
+     background-color: #d26262;
+     border-radius: 100%;
+}
+
+.play{
+     font-family: 'Ruluko', sans-serif;
+     color: white;
+     font-size: 30px;
+     text-align: center;
+     background-color: #d26262;
+     border-radius: 100%;
+
+}
+
+.cinemas{
+     font-family: 'Ruluko', sans-serif;
+     color: white;
+     font-size: 30px; 
+     text-align: center;
+     background-color: #d26262;
+     border-radius: 100%;
+
+}
+
+.driving{
+     font-family: 'Ruluko', sans-serif;
+     color: white; 
+     font-size: 30px;
+     text-align: center;
+     background-color: #d26262;
+     border-radius: 100%;
+}
+
+.distance{
+     font-family: 'Ruluko', sans-serif;
+     color: white; 
+     font-size: 30px;
+     text-align: center;
+     background-color: #d26262;
+     border-radius: 100%;
+}
+
+/*end of fifth part*/
+/*sixth part*/
+
+#fourthrow{
+   font-family: 'Ruluko', sans-serif;
+
+   padding: 35px;
+
+}
+
+#last {
+    font-size: 30px;
+  
+}
+
+#icons {
+    
+}
+
+.fa-facebook:hover {
+  color: #3B5998;
+  transform: translateY(-5px);
+}
+
+.fa-google-plus {
+  color: #DF6353;
+  padding-left: 15px;
+
+}
+
+.fa-google-plus:hover {
+  color: #d34836;
+  transform: translateY(-5px);
+}
+
+.fa-github {
+    color: #363333;
+    padding-left: 15px;
+}
+
+.fa-github:hover {
+    color: black;
+    transform: translateY(-5px);
+}
+
+.fa-linkedin {
+    color: #0191dd;
+    padding-left: 15px;
+}
+
+.fa-linkedin:hover {
+    color: #0077B5;
+    transform: translateY(-5px);
+}
+/*end of sixth part*/
+
+/*seventh part*/
+.least {
+    background-color: antiquewhite;
+}
+.mail {
+    font-family: 'Ruluko', sans-serif;  
+    color: black;
+    text-align: center;
+    font-size: 20px;
+  
+}
+
+#end {
+    padding: 30px;
+    text-align: center;
+    }
+
+.fa-envelope-square {
+    text-decoration: none;
+    color: #111111;
+}
+
+.fa-envelope-square:hover {
+    color: black;
+    transform: translateY(-5px);
+}
+
+/*end of fourth part*/
