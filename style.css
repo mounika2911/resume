@@ -7,6 +7,7 @@
 
 #header-text {
     margin-top: 160px;
+   
     text-align: right;
     color: whitesmoke;   
 }
@@ -179,7 +180,7 @@ h4 {
 }
 
 .hobbies {
-    padding: 14px;
+    padding: 0;
     height: 214px;
 }
 
@@ -188,7 +189,7 @@ h4 {
 }
 
 #music {
-    padding: 10px;
+    padding: 0;
 }
 
 .listen{
@@ -203,7 +204,7 @@ h4 {
 }
 
 #games {
-     padding: 10px
+     padding: 0;
 }
 
 .play{
@@ -219,7 +220,7 @@ h4 {
 }
 
 #movies{
-    padding: 10px;
+    padding: 0;
 }
 
 .cinemas{
@@ -235,7 +236,7 @@ h4 {
 }
 
 #ride {
-    padding: 10px;
+    padding: 0;
 }
 
 .driving{
@@ -250,7 +251,7 @@ h4 {
 }
 
 #travel {
-    padding: 10px;
+    padding: 0;
 }
 
 .distance{
